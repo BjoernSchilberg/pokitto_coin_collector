@@ -1,9 +1,9 @@
-# Pokitto C++ Template
+# Pokitto simple coin collector game
 
 Checkout:
 
 ```shell
-git clone --recursive https://github.com/BjoernSchilberg/pokitto_cxx_template
+git clone --recursive https://github.com/BjoernSchilberg/pokitto_coin_collector
 ```
 
 Build:
