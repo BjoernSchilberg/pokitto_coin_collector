@@ -9,7 +9,7 @@ git clone --recursive https://github.com/BjoernSchilberg/pokitto_coin_collector
 Build:
 
 ```shell
-cd pokitto_cxx_template
+cd pokitto_coin_collector
 make
 ```
 
